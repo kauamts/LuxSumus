@@ -1,4 +1,4 @@
-Lux Sumus
+> LUX SUMUS
 
 Lux Sumus, "we are light" in latin, is a short Unity 3D low-poly styled beat'em up game made in C# for Windows.
 

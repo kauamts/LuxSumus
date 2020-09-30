@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b23c3b65fa5c7d34a99f04730c0ffe44
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerPosition: {instanceID: 0}
+  - agent: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  - hit: {fileID: 8300000, guid: d8e2cb8e66413664796e0e62edafd53e, type: 3}
+  - attackParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
