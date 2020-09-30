@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: e73ea87156b8deb4cb9cfd0e14426a18
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - body: {instanceID: 0}
+  - ammo: {instanceID: 0}
+  - rotationAnchor: {instanceID: 0}
+  - mira: {instanceID: 0}
+  - espada: {instanceID: 0}
+  - espadaCharging: {instanceID: 0}
+  - espadaCharged: {instanceID: 0}
+  - chargedAmmo: {instanceID: 0}
+  - chargingAmmo: {instanceID: 0}
+  - chargingAnimation: {instanceID: 0}
+  - markedCheckpoint: {instanceID: 0}
+  - playerMovement: {instanceID: 0}
+  - spawnParticles: {instanceID: 0}
+  - deathParticles: {instanceID: 0}
+  - checkpointManager: {instanceID: 0}
+  - pauseMenu: {instanceID: 0}
+  - luz: {instanceID: 0}
+  - normalShotSound: {instanceID: 0}
+  - chargingShotSound: {instanceID: 0}
+  - chargedShotSound: {instanceID: 0}
+  - chargingSound: {instanceID: 0}
+  - spawnController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
